@@ -12,8 +12,18 @@ def main():
     print(f"Discovered Agent: {agent_card['name']} – {agent_card.get('description', '')}")
 
     # 2. Prepare a task request for the agent
+    # Generate a unique ID for this task using UUID4
     task_id = str(uuid.uuid4())  # unique task ID
+    
+    # Define the user's question/prompt for the agent
     user_text = "What is Google A2A?"
+    
+    # Construct the task payload according to A2A protocol specification:
+    # - id: unique identifier for the task
+    # - message: contains the user's input
+    #   - role: identifies message sender as "user" 
+    #   - parts: array of message content pieces
+    #     - text: the actual message content
     task_payload = {
         "id": task_id,
         "message": {
@@ -23,7 +33,10 @@ def main():
             ]
         }
     }
+    
+    # Log the task details before sending
     print(f"Sending task {task_id} to agent with message: '{user_text}'")
+    print(f"Full task payload: {task_payload}")
 
     # 3. Send the task to the agent's tasks/send endpoint
     tasks_send_url = f"{AGENT_BASE_URL}/tasks/send"
