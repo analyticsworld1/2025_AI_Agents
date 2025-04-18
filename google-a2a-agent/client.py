@@ -34,18 +34,18 @@ def main():
         }
     }
     
-    # Log the task details before sending
+    # Log the task details before sending..
     print(f"Sending task {task_id} to agent with message: '{user_text}'")
     print(f"Full task payload: {task_payload}")
 
-    # 3. Send the task to the agent's tasks/send endpoint
+    # 3. Send the task to the agent's tasks/send endpoint.
     tasks_send_url = f"{AGENT_BASE_URL}/tasks/send"
     response = requests.post(tasks_send_url, json=task_payload)
     if response.status_code != 200:
         raise RuntimeError(f"Task request failed: {response.status_code}, {response.text}")
     task_response = response.json()
 
-    # 4. Process the agent's response
+    # 4. Process the agent's response.
     if task_response.get("status", {}).get("state") == "completed":
         # The last message in the response messages list should be the agent's answer
         messages = task_response.get("messages", [])
