@@ -12,7 +12,7 @@ See `prompt.txt` for the initial prompt I gave to Archon to build this AI agent 
 
 This system uses a primary orchestration agent that delegates tasks to specialized subagents, each with expertise in a specific third-party service:
 
-- **Airtable Agent**: Manages Airtable databases and records
+- **Airtable Agent**: Manages Airtable databases and records.
 - **Brave Search Agent**: Performs web searches and retrieves information
 - **Filesystem Agent**: Handles file operations and directory management
 - **GitHub Agent**: Interacts with GitHub repositories, issues, and PRs
