@@ -6,7 +6,7 @@ This n8n-powered agent serves as your personal consultant for local AI deploymen
 
 ## Features
 
-- Provides information about trending open-source LLMs
+- Provides information about trending open-source LLMs.
 - Advises on hardware requirements for running different LLMs
 - Offers guidance on local AI deployment strategies
 - Answers questions about model optimization and performance
