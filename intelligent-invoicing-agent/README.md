@@ -12,7 +12,7 @@ An AI-powered invoice processing assistant that transforms invoice management fr
 - Natural language queries for instant information retrieval  
 - Context-aware validation to minimize errors  
 - Streamlined integration with n8n and Supabase for data storage  
-- Real-time access to invoice history and status  
+- Real-time access to invoice history and status.
 
 ## How It Works
 
