@@ -13,7 +13,7 @@ The implementation consists of two main components:
 2. **Client (client.py)**: A simple client that demonstrates how to:
    - Discover an agent by fetching its Agent Card
    - Send a task to the agent
-   - Process the agent's response
+   - Process the agent's response.
 
 The example agent has web search capabilities using Brave Search through the Model Context Protocol (MCP).
 
