@@ -10,7 +10,7 @@ An intelligent documentation crawler and RAG (Retrieval-Augmented Generation) ag
 - RAG-based question answering
 - Support for code block preservation
 - Streamlit UI for interactive querying
-- Available as both API endpoint and web interface
+- Available as both API endpoint and web interface.
 
 ## Prerequisites
 
