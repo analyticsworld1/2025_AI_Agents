@@ -6,7 +6,7 @@ This project demonstrates how to build an AI agent that integrates with Model Co
 
 If you want to very quickly integrate MCP servers into your own Pydantic AI agents, just follow these simple steps:
 
-1. Copy `mcp_client.py` from this repo into your own project
+1. Copy `mcp_client.py` from this repo into your own project.
 
 2. Install the necessary dependencies:
 
