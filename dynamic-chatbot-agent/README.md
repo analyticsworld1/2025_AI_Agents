@@ -14,9 +14,9 @@ See the PDF within this directory for more extensive documentation on this agent
 
 - Rapid setup: converts basic info into a working chatbot within minutes  
 - Tailored for dental clinics, ensuring relevant features and workflows  
-- Dynamic, real-time responses to patient inquiries  
+- Dynamic, real-time responses to patient inquiries.
 - Simplified user experience, eliminating complex coding or integration steps  
-- Scalable foundation for expanding functionality over time  
+- Scalable foundation for expanding functionality over time.
 
 ## How It Works
 
