@@ -4,7 +4,7 @@ Author: [Genius Excel](https://web.dojo.app/create_booking/vendor/I8Ks7WgYmNPf0y
 
 **Platform:** Voiceflow (you can import the .vf file into your own Voiceflow to check out the flow)
 
-**Note:** All API keys have been removed from the .vf file
+**Note:** All API keys have been removed from the .vf file.
 
 Revolutionizing table reservations with intelligence and convenience, this Voiceflow-built AI assistant delivers a seamless, user-friendly experience. By guiding customers through the reservation process, calculating deposit fees, and sending real-time confirmations, it elevates dining experiences while streamlining restaurant operations.
 
