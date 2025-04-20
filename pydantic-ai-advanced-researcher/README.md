@@ -2,7 +2,7 @@
 
 An advanced web search agent using Pydantic AI and the Brave Search API, with both a command-line interface and a Streamlit web interface. The agent can be configured to use either OpenAI's GPT models or Ollama's local models. On the Live Agent Studio, this agent is using gpt-4o-mini.
 
-What makes this an advanced web search agent is that it uses the Brave API to summarize a collection of articles found from the search query to create a concise yet comprehensive
+What makes this an advanced web search agent is that it uses the Brave API to summarize a collection of articles found from the search query to create a concise yet comprehensive.
 paragraph of information for the LLM to answer the user's question.
 
 ### [Check out Cole Medin's YouTube video on this agent!](https://youtu.be/pC17ge_2n0Q)
