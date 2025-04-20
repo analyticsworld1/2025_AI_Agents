@@ -112,7 +112,7 @@ TinyDM uses natural language processing to understand and respond to your needs.
    
    A pack of wolves has been stalking the party. You have:
    - 3 wolves (CR 1/4 each)
-   - 1 dire wolf pack leader (CR 1)
+   - 1 dire wolf pack leader (CR 1).
    
    Tactical Setup:
    - Wolves approach from different directions
