@@ -1,4 +1,4 @@
-# Reddit Small Business Researcher
+# Reddit Small Business Researcher.
 
 Author: [Zubair Trabzada](https://www.youtube.com/@AI-GPTWorkshop)
 
