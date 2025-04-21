@@ -11,7 +11,7 @@ This n8n-powered agent is an advanced web research assistant that leverages the 
 - Provides comprehensive research summaries
 - Maintains source attribution
 - Filters and prioritizes relevant information
-- Handles complex research queries
+- Handles complex research queries.
 
 ## Technical Details
 
