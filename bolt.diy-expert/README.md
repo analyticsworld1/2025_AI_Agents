@@ -11,7 +11,7 @@ This agent serves as a knowledgeable assistant that:
 - Helps troubleshoot installation and setup issues
 - Provides guidance on using different LLM providers
 - Assists with understanding bolt.diy's architecture and components
-- Offers support for contributing to the project
+- Offers support for contributing to the project.
 
 ## Knowledge Base
 
