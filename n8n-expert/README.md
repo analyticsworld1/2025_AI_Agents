@@ -10,7 +10,7 @@ User: "I need to automatically post tweets when new blog posts are published"
 Agent: Here are some recommended workflows to help you get started:
 - WordPress to Twitter Auto-Poster
 - Blog RSS Feed to Social Media
-- Content Distribution Workflow
+- Content Distribution Workflow.
 ```
 
 The agent analyzes your request and provides matching workflows from its knowledge base, along with explanations of how to implement and customize them for your needs.
