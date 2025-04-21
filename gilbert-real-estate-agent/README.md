@@ -1,4 +1,4 @@
-# Gilbert: AI-powered Real Estate Assistant
+# Gilbert: AI-powered Real Estate Assistant.
 
 Author: [Ivan Milennyi](https://stellular-halva-641b23.netlify.app/)
 
